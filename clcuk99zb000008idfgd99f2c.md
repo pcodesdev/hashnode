@@ -6,7 +6,6 @@ datePublished: Fri Jan 13 2023 13:34:04 GMT+0000 (Coordinated Universal Time)
 cuid: clcuk99zb000008idfgd99f2c
 slug: responding-to-events-and-updating-the-screen-in-reactjs
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1673586616913/0a1c276f-0e39-494e-9932-01e87499a695.png
-tags: javascript, web-development, reactjs, beginners, frontend-development
 
 ---
 
